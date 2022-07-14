@@ -17,7 +17,6 @@
 #3- PUT sepcific client : http://localhost:8080/api/clients/1
 
           {
-
           "name" : "new userName",
           "lastName":"new lastName",
           "mobile":"0993244406"
@@ -34,7 +33,7 @@
             "price" : 150
             }
 
-#6-PUT specific sale : http://localhost:8080/api/clients/2/sales/2
+#6- PUT specific sale : http://localhost:8080/api/clients/2/sales/2
             {
             "seller":"new name",
             "total": 11,
@@ -42,7 +41,7 @@
             "price" : 120
             }
             
-#7-POST one product : http://localhost:8080/api/products
+#7- POST one product : http://localhost:8080/api/products
             {
               "name" : "HP",
               "description":"core i3",
