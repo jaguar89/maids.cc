@@ -34,6 +34,7 @@
             }
 
 #6- PUT specific sale : http://localhost:8080/api/clients/2/sales/2
+
             {
             "seller":"new name",
             "total": 11,
@@ -42,6 +43,7 @@
             }
             
 #7- POST one product : http://localhost:8080/api/products
+
             {
               "name" : "HP",
               "description":"core i3",
@@ -51,6 +53,7 @@
 #8- GET all product :  http://localhost:8080/api/products
 
 #9- PUT specific product : http://localhost:8080/api/products/1
+
             {
               "name" : "Lenovo",
               "description":"core i5",
