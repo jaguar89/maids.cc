@@ -1,6 +1,6 @@
 # maids.cc
 
-#Simple REST APIs project built with soring boot.
+#Simple REST APIs project built with spring boot.
 
 #Run Postman and make some tests: 
 
